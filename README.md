@@ -1,2 +1,2 @@
 # Minesweeper Game
-Run main.py to run the game.
+Run main.py to start the game.
